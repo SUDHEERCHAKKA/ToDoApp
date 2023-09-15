@@ -1,0 +1,41 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+    border: 1px solid #ede7f6;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: rgb(49, 187, 152);
+    color: black;
+}
+p{
+    margin: 0;
+    font-family: "fantasy";
+    font-size: 18px;
+}
+.item button{
+    width: 30px;
+    height: 25px;
+    border-radius: 20%;
+    padding: 2px;
+    color:white;
+    background-color: rgb(193, 182, 30);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+}
+.direction{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+.move{
+    display: flex;
+    gap: 10px;
+}
