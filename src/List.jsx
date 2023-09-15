@@ -56,7 +56,7 @@ function List(props) {
                     <Dialog.Content className="DialogContent">
                       <Dialog.Title className="DialogTitle">Edit profile</Dialog.Title>
                       <Dialog.Description className="DialogDescription">
-                        Make changes to your todo here. Click save when you're done.
+                        Make changes to your todo here. Click Save When You're Done.
                       </Dialog.Description>
                       <fieldset className="Fieldset">
                         <label className="Label" htmlFor="name">
